@@ -163,7 +163,7 @@ font:
   # spacing.
   offset:
    x: 0
-   y: 4
+   y: 7
 
   # right, increasing `y` moves the glyph upward.
   glyph_offset:
